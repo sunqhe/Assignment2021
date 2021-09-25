@@ -1,0 +1,834 @@
+    1  hdffc
+    2  fgfd
+    3  gfdg
+    4  dfg
+    5  df
+    6  gdf
+    7  g
+    8  df
+    9  gfd
+   10  timon
+   11  imon
+   12  apt-get
+   13  Showorf
+   14  ls
+   15  mk mendel
+   16  md mendel
+   17  mkd mendel
+   18  cd mendel
+   19  ls
+   20  exit
+   21  cd
+   22  pwd
+   23  ls
+   24  cd lamp
+   25  ls
+   26  cd my_linux_app/
+   27  ls
+   28  cd ..
+   29  chmod -R 755 my_linux_app
+   30  chmod -R 755 my_linux_app/storage
+   31  cd my_linux_app/
+   32  php artisan key:generate
+   33  vi key.generated.txt
+   34  sudo mysql -u root -p
+   35  ls
+   36  ls -al
+   37  mv .env.example .env
+   38  vi .env
+   39  cd /var/www/html
+   40  composer create-project --prefer-dist laravel/laravel my_linux_app
+   41  sudo composer create-project --prefer-dist laravel/laravel my_linux_app
+   42  pwd
+   43  ls
+   44  ls -al
+   45  cd ..
+   46  ls
+   47  ls -al
+   48  ce
+   49  cd ~
+   50  ls
+   51  cd lamp/
+   52  ls
+   53  cd my_linux_app/
+   54  ls
+   55  php artisan migrate
+   56  cd ~
+   57  cd Sites/links/
+   58  ls
+   59  mysql -u root -p
+   60  ls -al
+   61  cp .env.example .env
+   62  vi .env
+   63  composer install laravel/ui
+   64  ls
+   65  cd artisan
+   66  ls
+   67  php artisan ui bootstrap --auth
+   68  composer require laravel/ui
+   69  ls
+   70  vi composer.json 
+   71  composer require laravel/ui --dev
+   72  sudo apt uninstall php7.0-common php7.0-cli php7.0-gd php7.0-mysql php7.0-curl php7.0-intl php7.0-mbstring php7.0-bcmath php7.0-imap php7.0-xml php7.0-zip
+   73  sudo apt remove php7.0-common php7.0-cli php7.0-gd php7.0-mysql php7.0-curl php7.0-intl php7.0-mbstring php7.0-bcmath php7.0-imap php7.0-xml php7.0-zip
+   74  sudo apt install php7.2-common php7.2-cli php7.2-gd php7.2-mysql php7.2-curl php7.2-intl php7.2-mbstring php7.2-bcmath php7.2-imap ph[2~[2~[2~[2~[2~[2~[Bp7.4-xml php7.2-zip
+   75  sudo apt-get install software-properties-common
+   76  sudo add-apt-repository ppa:ondrej/php
+   77  sudo apt-get update
+   78  sudo apt-get upgrade
+   79  sudo apt-get install -y php7.4
+   80  sudo systemctl restart apache2
+   81  composer require laravel/ui --dev
+   82  sudo systemctl stop apache2
+   83  composer require laravel/ui 
+   84  composer install laravel/ui 
+   85  composer require laravel/ui --dev
+   86  sudo apt-get install php-mbstring 
+   87  sudo apt-get install php-xml
+   88  composer require laravel/ui --dev
+   89  vi composer.json
+   90  grep laravelcollective composer.json 
+   91  composer install
+   92  composer upgrade
+   93  composer require laravel/ui --dev
+   94  composer install
+   95  composer upgrade
+   96  composer fund
+   97  php -v
+   98  php artisan ui bootstrap --auth
+   99  composer require laravel/ui
+  100  sudo apt install mysql-workbench
+  101  mysql-workbench
+  102  sudo
+  103  pwd
+  104  ls
+  105  mkdir lamp
+  106  sudo apt update
+  107  apt list --upgrade
+  108  apt list --upgradable
+  109  sudo apt install -y git curl wget zip unzip
+  110  sudo apt install apache2
+  111  sudo systemctl status apache2
+  112  sudo ufw allow in "Apache Full"
+  113  sudo a2enmod rewrite
+  114  sudo systemctl restart apache2
+  115  sudo apt install mysql-server
+  116  sudo mysql_secure_installation
+  117  sudo mysql -u root -p
+  118  sudo apt install php libapache2-mod-php php-mysql
+  119  sudo apt install php7.2-common php7.2-cli php7.2-gd php7.2-mysql php7.2-curl php7.2-intl php7.2-mbstring php7.2-bcmath php7.2-imap php7.2-xml php7.2-zip
+  120  sudo apt install php7.0-common php7.0-cli php7.0-gd php7.0-mysql php7.0-curl php7.0-intl php7.0-mbstring php7.0-bcmath php7.0-imap php7.0-xml php7.0-zip
+  121  sudo nano /etc/apache2/mods-enabled/dir.conf
+  122  sudo vi /etc/apache2/mods-enabled/dir.conf
+  123  sudo systemctl restart apache2
+  124  sudo vi /var/www/html/info.php
+  125  curl -sS https://getcomposer.org/installer | php
+  126  sudo mv composer.phar /usr/local/bin/composer
+  127  sudo chmod +x /usr/local/bin/composer
+  128  composer --version
+  129  pwd
+  130  ls
+  131  cd lamp
+  132  composer create-project --prefer-dist laravel/laravel my_linux_app
+  133  pwd
+  134  ls
+  135  cd my_linux_app/
+  136  ls
+  137  php artisan serve
+  138  cd ..
+  139  ls
+  140  mkdir Sites
+  141  cd Sites/
+  142  ls
+  143  composer create-project --prefer-dist laravel/laravel links "7.*"
+  144  composer create-project --prefer-dist laravel/laravel links
+  145  php artisan serve
+  146  cd links/
+  147  cd ..
+  148  ls
+  149  chmod -R 755 links/
+  150  chmod -R 755 links/storage/
+  151  cd links/
+  152  ls
+  153  php artisan serve
+  154  pwd
+  155  ls
+  156  cd spark/
+  157  ls
+  158  cd output/
+  159  ls
+  160  cat part-0000
+  161  cat part-00000
+  162  cat part-00001
+  163  cd ..
+  164  mkdir spark-application
+  165  cd spark-application/
+  166  ls
+  167  vi SparkWordCount.scala
+  168  pwd
+  169  ls ../../Downloads*
+  170  ls ../../Downloads/spark-core_2.10-1.3.0.jar
+  171  cp ../../Downloads/spark-core_2.10-1.3.0.jar .
+  172  ls
+  173  scalac -classpath "spark-core_2.10-1.3.0.jar:/usr/local/spark/lib/spark-assembly-1.4.0-hadoop2.6.0.jar" SparkPi.scala
+  174  ls
+  175  scalac -classpath "spark-core_2.10-1.3.0.jar:/usr/local/spark/lib/spark-assembly-1.4.0-hadoop2.6.0.jar" SparkWordCount.scala
+  176  ls
+  177  scalac -classpath "spark-core_2.10-1.3.0.jar:/usr/local/spark/lib/spark-assembly-1.4.0-hadoop2.6.0.jar" SparkWordCount.scala
+  178  ls /usr/local/spark/lib/spark-assembly-1.4.0-hadoop2.6.0.jar
+  179  ls /usr/local/spark/lib/*.jar
+  180  ls /usr/local/spark
+  181  ls /usr/local/spark/lib
+  182  ls /usr/local/spark/jars
+  183  ls /usr/local/spark/jars/spark-assembly-1.4.0-hadoop2.6.0.jar
+  184  ls /usr/local/spark/jars/spark-assembly-*.jar
+  185  pyspark
+  186  exit
+  187  java -version
+  188  scala -version
+  189  spark-shell
+  190  pwd
+  191  ls
+  192  mkdir spark
+  193  cd spark
+  194  vi imput.txt
+  195  spark-shell
+  196  pwd
+  197  ls
+  198  mv imput.txt input.txt
+  199  spark-shell
+  200  sudo
+  201  sudo apt-get install casandra ntp
+  202  env 
+  203  env | grep JAVA
+  204  env | grep PATH
+  205  whereis JAVA
+  206  locate java
+  207  whereis java
+  208  whereis java | ls -al
+  209  man alternative
+  210  man alternatives
+  211  pwd
+  212  mkdir cassandra
+  213  vi .bashrc 
+  214  source .bashrc 
+  215  cd cassandra/
+  216  ls
+  217  ls ../Downloads/
+  218  cp ../Downloads/apache-cassandra-3.11.7-bin.tar.gz .
+  219  ls
+  220  tar xvzf apache-cassandra-3.11.7-bin.tar.gz 
+  221  cd ..
+  222  ls
+  223  ssh-keygen -t rsa
+  224  ls
+  225  cd .ssh
+  226  ls
+  227  cd ..
+  228  pwd
+  229  cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+  230  cat ~/.ssh/authorized_keys
+  231  su
+  232  sudo useradd hadoop
+  233  passwd hadoop
+  234  sudo passwd hadoop
+  235  source .bashrc
+  236  pwd
+  237  cd cassandra/
+  238  ls
+  239  cd apache-cassandra-3.11.7/bin
+  240  ls
+  241  cd ..
+  242  ls
+  243  cd conf
+  244  ls
+  245  vi cassandra.yaml 
+  246  cd /var/lib
+  247  ls
+  248  mkdir -p cassandra/data
+  249  sudo mkdir -p cassandra/data
+  250  cd cassandra/
+  251  ls
+  252  mkdir commitlog
+  253  sudo mkdir commitlog
+  254  sudo mkdir saved_caches
+  255  cd ..
+  256  chmod -R 777 cassandra
+  257  sudo chmod -R 777 cassandra
+  258  cd $CASSANDRA_HOME
+  259  ./bin/cassandra -f
+  260  ls
+  261  cd apache-cassandra-3.11.7/
+  262  ls
+  263  mv * ..
+  264  ls
+  265  cd ..
+  266  ls
+  267  rm apache-cassandra-3.11.7
+  268  rm -rf apache-cassandra-3.11.7
+  269  rm apache-cassandra-3.11.7-bin.tar.gz
+  270  ls
+  271  ./bin/cassandra -f
+  272  exit
+  273  cqlsh
+  274  exit
+  275  cd lamp/myapp
+  276  ls
+  277  cd database/
+  278  ls
+  279  cd migrations/
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd ..
+  284  ls
+  285  cd routes/
+  286  ls
+  287  vi api.php 
+  288  cd ..
+  289  php artisan make:model Article -m
+  290  ls
+  291  ls database/migrations/*
+  292  vi .env
+  293  mysql -u root -p welcome1
+  294  mysql -u root -p'welcome1'
+  295  cd database/migrations/
+  296  ls
+  297  vi 2020_08_14_033147_create_articles_table.php
+  298  rm 2020_08_14_033147_create_articles_table.php
+  299  cd -
+  300  php artisan make:model Article -m
+  301  ls
+  302  cd database/
+  303  ls
+  304  cd ..
+  305  ls
+  306  grep -r article
+  307  grep -r article | less
+  308  cd app
+  309  ls
+  310  vi Article.php 
+  311  cd ..
+  312  vi .env
+  313  php artisan migrate
+  314  cd app
+  315  ls
+  316  cd ..
+  317  php artisan make:seeder ArticleTableSeeder
+  318  ls database/seeds/
+  319  php artisan db:seed --class=ArticleTableSeeder
+  320  ls
+  321  cd routes/
+  322  ls
+  323  vi api.php 
+  324  cd ..
+  325  ls
+  326  cd app
+  327  ls
+  328  vi Article.php 
+  329  php artisan make:controller ArticleController
+  330  cd ..
+  331  php artisan make:controller ArticleController
+  332  ls
+  333  cd app
+  334  ls
+  335  vi Article.php 
+  336  cd Http
+  337  ls
+  338  cd Controllers/
+  339  ls
+  340  vi ArticleController.php 
+  341  exit
+  342  ls
+  343  cd lamp
+  344  ls
+  345  history | less
+  346  mysql -u root -p'welcome1'
+  347  history > history.20200813.txt
+  348  vi history.20200813.txt
+  349  composer create-project --prefer-dist laravel/laravel myapp
+  350  cd myapp/
+  351  php artisan serve
+  352  ls
+  353  cd ..
+  354  rm -rf myapp/
+  355  composer create-project --prefer-dist laravel/laravel myapp
+  356  cd myapp
+  357  ls
+  358  cd app
+  359  ls
+  360  cd Http
+  361  ls
+  362  cd ..
+  363  ls
+  364  vi User.php 
+  365  cd ..
+  366  ls
+  367  php artisan make:model Article -m
+  368  ls
+  369  cd app
+  370  ls
+  371  cd Http
+  372  ls
+  373  cd ..
+  374  ls
+  375  vi Article.php 
+  376  cd ../database/migrations/
+  377  ls
+  378  vi 2020_08_14_035031_create_articles_table.php
+  379  ls
+  380  exit
+  381  ls
+  382  cd lamp
+  383  ls
+  384  cd myapp
+  385  ls
+  386  php artisan serve
+  387  node -v
+  388  npm -v
+  389  sudo apt install nodejs
+  390  node -v
+  391  npm -v
+  392  node -v
+  393  class ApiController extends Controller
+  394  {   ...;   public function createStudent(Request $request) {
+  395  ls
+  396  node -v
+  397  npm -v
+  398  sudo apt install nodejs-legacy
+  399  node -v
+  400  sudo apt uninstall nodejs-legacy
+  401  sudo apt delete nodejs-legacy
+  402  sudo apt remove nodejs-legacy
+  403  sudo apt remove nodejs
+  404  exit
+  405  pwd
+  406  ls
+  407  cd lamp
+  408  history | grep var
+  409  sudo vi /var/www/html/info.php
+  410  cd /var/www/html
+  411  ls
+  412  vi connect2.php
+  413  sudo vi connect2.php
+  414  vi connect2.php
+  415  sudo vi connect2.php
+  416  vi /etc/php/7.4/apache2/php.ini 
+  417  sudo vi /etc/php/7.4/apache2/php.ini 
+  418  history | grep apachectl
+  419  history | more
+  420  sudo systemctl restart apache2
+  421  pwd
+  422  cd
+  423  cd lamp
+  424  ls
+  425  cd myapp
+  426  vi .env
+  427  mysql -u root -p'welcome1'
+  428  php artisan migrate
+  429  sudo apt-get install php7.4-mysql
+  430  sudo systemctl restart apache2
+  431  php artisan migrate
+  432  mysql -u root -p'welcome1'
+  433  php artisan make:seeder ArticlesTableSeeder
+  434  mysql -u root -p'welcome1'
+  435  php artisan db:seed --class=ArticlesTableSeeder
+  436  mysql -u root -p'welcome1'
+  437  cd database/seeds/
+  438  ls
+  439  rm ArticleTableSeeder.php
+  440  ls
+  441  vi ArticlesTableSeeder.php 
+  442  php artisan db:seed --class=ArticlesTableSeeder
+  443  cd ..
+  444  php artisan db:seed --class=ArticlesTableSeeder
+  445  cd database/seeds/
+  446  ls
+  447  vi ArticlesTableSeeder.php 
+  448  cd ..
+  449  php artisan db:seed --class=ArticlesTableSeeder
+  450  cd database/seeds/
+  451  ls
+  452  vi ArticlesTableSeeder.php 
+  453  cd -
+  454  php artisan db:seed --class=ArticleTableSeeder
+  455  php artisan db:seed --class=ArticlesTableSeeder
+  456  cd App
+  457  cd app
+  458  ls
+  459  vi Article.php 
+  460  cd ..
+  461  ls
+  462  rm -rf myapp
+  463  rm -rf my_linux_app/
+  464  composer create-project --prefer-dist laravel/laravel myapp
+  465  cd myapp/
+  466  ls
+  467  vi .env
+  468  cd app
+  469  ls
+  470  cd ..
+  471  ls
+  472  php artisan make:model Article -m
+  473  cd database/migrations/
+  474  ls
+  475  vi 2020_08_14_125102_create_articles_table.php
+  476  cd -
+  477  php artisan migrate
+  478  cd database/migrations/
+  479  ls
+  480  vi 2020_08_14_125102_create_articles_table.php
+  481  cd -
+  482  php artisan migrate
+  483  mysql -u root -p'welcome1'
+  484  php artisan migrate
+  485  mysql -u root -p'welcome1'
+  486  php artisan make:seeder ArticlesTableSeeder
+  487  cd database/seeds/
+  488  ls
+  489  vi ArticlesTableSeeder.php 
+  490  cd -
+  491  php artisan db:seed --class=ArticlesTableSeeder
+  492  cd database/seeds/
+  493  ls
+  494  vi ArticlesTableSeeder.php 
+  495  php artisan db:seed --class=ArticlesTableSeeder
+  496  mysql -u root -p'welcome1'
+  497  php artisan make:seeder UsersTableSeeder
+  498  cd database/seeds/
+  499  ls
+  500  vi UsersTableSeeder.php 
+  501  cd -
+  502  php artisan db:seed --class=UsersTableSeeder
+  503  cd -
+  504  vi UsersTableSeeder.php 
+  505  cd -
+  506  php artisan db:seed --class=UsersTableSeeder
+  507  mysql -u root -p'welcome1'
+  508  cd database/seeds/
+  509  ls
+  510  vi DatabaseSeeder.php 
+  511  vi ArticlesTableSeeder.php 
+  512  ls
+  513  cd -
+  514  ls
+  515  cd routes/
+  516  ls
+  517  vi api.php 
+  518  cp api.php ../..
+  519  cd ..
+  520  ls
+  521  cd app
+  522  ls
+  523  cd ..
+  524  ls
+  525  php artisan make:controller ArticleController
+  526  ls
+  527  cd app
+  528  ls
+  529  cd ..
+  530  ls
+  531  find . -name "*Controller*"
+  532  cd app
+  533  ls
+  534  cd Http/
+  535  ls
+  536  cd Controllers/
+  537  ls
+  538  vi ArticleController.php 
+  539  cd -
+  540  cd ../..
+  541  ls
+  542  cd routes/
+  543  ls
+  544  vi api.php 
+  545  ls
+  546  cd ..
+  547  ls
+  548  cd app/Http/Controllers/
+  549  ls
+  550  vi ArticleController.php 
+  551  cd ../../Exceptions/
+  552  ls
+  553  vi Handler.php 
+  554  cd ../..
+  555  ls
+  556  php artisan make:migration --table=users adds_api_token_to_users_table
+  557  cd database/migrations/
+  558  ls
+  559  vi 2020_08_14_150100_adds_api_token_to_users_table.php
+  560  cd ..
+  561  mysql -u root -p'welcome1'
+  562  php artisan migrate
+  563  mysql -u root -p'welcome1'
+  564  ls
+  565  find . -name "Auth"
+  566  ls app/Http/Controllers/
+  567  grep -r RegistersUsers *
+  568  grep -r register *
+  569  grep -r register * | grep 'function register'
+  570  ls
+  571  cd app/Http/Controllers/
+  572  ls
+  573  mkdir Auth
+  574  cd Auth
+  575  ls
+  576  touch ForgotPasswordController.php
+  577  touch LoginController.php
+  578  touch RegisterController.php
+  579  touch ResetPasswordController.php
+  580  vi ForgotPasswordController.php
+  581  vi LoginController.php
+  582  touch RegisterController.php
+  583  vi RegisterController.php
+  584  vi ResetPasswordController.php
+  585  cd ../../..
+  586  ls
+  587  cd ..
+  588  ls
+  589  cd routes/
+  590  ls
+  591  vi api.php 
+  592  cd ..
+  593  ls
+  594  cd database/
+  595  ls
+  596  cd migrations/
+  597  ls
+  598  cd ..
+  599  ls
+  600  cd ..
+  601  ls
+  602  cd app
+  603  ls
+  604  vi User.php 
+  605  ls
+  606  curl -X POST http://127.0.0.1:8000/api/articles
+  607  curl -X GET http://127.0.0.1:8000/api/articles
+  608  curl -X POST http://localhost:8000/api/register  -H "Accept: application/json"  -H "Content-Type: application/json"  -d '{"name": "John", "email": "john.doe@toptal.com", "password": "toptal123", "password_confirmation": "toptal123"}'
+  609  cd ../..
+  610  history | grep Composer
+  611  history | grep composer
+  612  composer create-project --prefer-dist laravel/laravel api-project
+  613  mysql -u root -p'welcome1'
+  614  cd api-project/
+  615  ls
+  616  vi .env
+  617  php artisan make:model Student -m
+  618  vi app/Student.php 
+  619  cd database/migrations/
+  620  ls
+  621  vi 2020_08_14_191825_create_students_table.php
+  622  cd -
+  623  php artisan migrate
+  624  cd -
+  625  vi 2020_08_14_191825_create_students_table.php
+  626  cd -
+  627  php artisan migrate
+  628  php artisan make:controller ApiController
+  629  cd app
+  630  ls
+  631  cd ..
+  632  ls
+  633  vi routes/app.php
+  634  vi routes/api.php
+  635  ls
+  636  cd app/Http/Controllers/
+  637  ls
+  638  vi ApiController.php 
+  639  cd
+  640  cd lamp
+  641  ls
+  642  composer create-project --prefer-dist laravel/laravel restapi
+  643  cd restapi/
+  644  vi .env
+  645  php artisan serve
+  646  exit
+  647  cd lamp
+  648  ls
+  649  cd crud/
+  650  ls
+  651  cd resources/views/
+  652  ls
+  653  vi welcome.blade.php 
+  654  ls
+  655  cp welcome.blade.php welcome2.blade.php 
+  656  vi welcome.blade.php 
+  657  ls
+  658  vi welcome2.blade.php 
+  659  cd ..
+  660  ls
+  661  cd js
+  662  ls
+  663  cd components/
+  664  ls
+  665  vi Example.js 
+  666  ls
+  667  pwd
+  668  cd ..
+  669  ls
+  670  vi app.js 
+  671  cd ..
+  672  ls
+  673  cd views
+  674  ls
+  675  cd
+  676  ls
+  677  cd lamp
+  678  ls
+  679  cd react-laravel/
+  680  ls
+  681  cd resources/views/
+  682  ls
+  683  vi employee.blade.php
+  684  ls
+  685  ls 
+  686  ls -al
+  687  vi employee.blade.php 
+  688  cd ../../app/Http/Controllers/
+  689  ls
+  690  vi EmployeeController.php
+  691  cd ../..
+  692  ld
+  693  ls
+  694  cd ..
+  695  ls
+  696  cd routes/
+  697  ls
+  698  vi api.php 
+  699  cd ..
+  700  ls
+  701  npm install react-router-dom
+  702  cd resources/js/components/
+  703  ls
+  704  vi Nav.js
+  705  ls
+  706  vi Main.js
+  707  ls
+  708  pwd
+  709  mkdir employee
+  710  cd employee
+  711  ls
+  712  vi Form.js
+  713  vi Edit.js
+  714  vi List.js
+  715  cd ../../..
+  716  cd ..
+  717  ls
+  718  php artisan make:migration create_role_table
+  719  php artisan make:migration create_employee_table
+  720  cd database/migrations/
+  721  ls
+  722  vi 2020_08_15_195715_create_employee_table.php
+  723  ls
+  724  vi 2020_08_15_195700_create_role_table.php
+  725  cd ../..
+  726  ls
+  727  php artisan make:model Models/Employee
+  728  php artisan make:model Models/Role
+  729  cd app
+  730  ls
+  731  cd Models/
+  732  ls
+  733  vi Employee.php 
+  734  vi Role.php 
+  735  vi Employee.php 
+  736  sudo apt-get update
+  737  sudo apt-get upgrade
+  738  sudo apt-get install python-software-properties
+  739  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash –
+  740  bash
+  741  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash –
+  742  curl -sL https://deb.nodesource.com/setup_12.x
+  743  ls
+  744  which bash
+  745  curl -sL https://deb.nodesource.com/setup_12.x
+  746  ls
+  747  vi examples.desktop 
+  748  curl -sL https://deb.nodesource.com/setup_12.x > 123
+  749  vi 123
+  750  mv 123 123.sh
+  751  chmod +x 123.sh
+  752  ./123.sh
+  753  sudo ./123.sh
+  754  node -v
+  755  npm -v
+  756  sudo apt-get install -y nodejs
+  757  node -v
+  758  npm -v
+  759  yarn -v
+  760  echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+  761  sudo apt-get update && sudo apt-get install yarn
+  762  node -v
+  763  npm -v
+  764  yarn -v
+  765  composer global require laravel/installer
+  766  sudo composer global require laravel/installer
+  767  cd lamp
+  768  ls
+  769  history | grep composer
+  770  composer create-project --prefer-dist laravel/laravel crud
+  771  cd crud
+  772  ls
+  773  php artisan preset react
+  774  laravel -v
+  775  php artisan --version
+  776  composer require laravel/ui
+  777  php artisan ui react
+  778  npm install && npm run dev
+  779  npm run watch
+  780  ls
+  781  pwd
+  782  ls
+  783  cd resources/
+  784  ls
+  785  cd js
+  786  ls
+  787  cd components/
+  788  ls
+  789  vi Example.js 
+  790  cd ..
+  791  php artisan serve
+  792  cd ..
+  793  ls
+  794  composer create-project --prefer-dist laravel/laravel react-laravel
+  795  cd react-laravel/
+  796  ls
+  797  php artisan ui react
+  798  composer require laravel/ui
+  799  php artisan ui react
+  800  sudo npm run watch-poll
+  801  sudo npm run watch
+  802  npm install
+  803  sudo npm run watch-poll
+  804  ls
+  805  cd blog
+  806  cd lamp
+  807  cd blog/
+  808  mysql -u root -p'welcome1'
+  809  vi .env
+  810  history | grep welcome
+  811  ls
+  812  cd routes
+  813  ls
+  814  vi api.php 
+  815  cd ..
+  816  php artisan make:model Product -m
+  817  vi database/migrations/2020_08_19_155758_create_products_table.php 
+  818  php artisan migrate
+  819  mysql -u root -p'welcome1'
+  820  vi app/Product.php 
+  821  php artisan make:seeder ProductsTableSeeder
+  822  vi database/seeds/ProductsTableSeeder.php 
+  823  php artisan db:seed --class=ProductsTableSeeder
+  824  vi database/seeds/ProductsTableSeeder.php 
+  825  php artisan db:seed --class=ProductsTableSeeder
+  826  mysql -u root -p'welcome1'
+  827  vi routes/api.php 
+  828  php artisan make:controller ProductsController
+  829  vi app/Http/Controllers/ProductsController.php 
+  830  vi routes/api.php 
+  831  vi app/Http/Controllers/ProductsController.php 
+  832  vi app/Exceptions/Handler.php 
+  833  vi app/Http/Controllers/ProductsController.php 
+  834  history > history.txt
